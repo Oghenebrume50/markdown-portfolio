@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+-[] you need to work around
+-[] you need to be big
+-[] you should do push ups
+-[] nor be you again
