@@ -1,1 +1,4 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+_You did it_
+*You are the king*
+**You can be the best**
+__Omo I did not know__
